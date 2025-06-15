@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <strong>Data Engineering Zoomcamp: A Free 9-Week Course on Data Engineering Fundamentals</strong>
+    <strong>Data Engineering Zoomcamp Umang Trivedi: A Free 9-Week Course on Data Engineering Fundamentals</strong>
 </h1>
 
 <p align="center">
